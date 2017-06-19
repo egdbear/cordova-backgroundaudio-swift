@@ -1,0 +1,19 @@
+{
+  "name": "cordova-backgroundaudio-swift",
+  "version": "1.0.0",
+  "description": "Cordova background audio with hopefully working controls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egdbear/cordova-backgroundaudio-swift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egdbear/cordova-backgroundaudio-swift/issues"
+  },
+  "homepage": "https://github.com/egdbear/cordova-backgroundaudio-swift#readme"
+}
